@@ -1,2 +1,2 @@
-# HRDKOREA_LOTTE
-롯데자이언츠 정처산기(delete 이상함)
+# HRDKOREA_full
+정처기 모음
