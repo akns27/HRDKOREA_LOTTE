@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+*{
+	margin : 0;
+}
+
+header, footer, section{
+	margin: 0 auto;
+}
+
+section{
+	margin-top : 12px;
+	margin: 0 auto;
+	
+}
+
+h2{
+	text-align:center;
+	margin-bottom : 16px;
+/* 	padding-bottom : 16px; */
+}
+
+header, footer{
+	text-align:center;
+}
+
+header{
+	background-color: pink;
+	
+}
+nav{
+	background-color: skyblue;
+	
+}
+
+footer{
+	background-color: pink;
+	position: fixed;
+	bottom : 0;
+	width: 100%;
+}
+
+table{
+
+	text-align:center;
+	margin: 0 auto;
+}
